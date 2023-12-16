@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "@0918nobita/rxjs-based-vdom",
+  "version": "0.1.0",
+  "scripts": {},
+  "author": "Kodai Matsumoto <nobita.0918@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "5.3.3",
+    "vite": "5.0.10"
+  },
+  "dependencies": {
+    "rxjs": "7.8.1"
+  }
+}
